@@ -1,4 +1,4 @@
-# -An-lise-de-Sentimentos
+# -Analise-de-Sentimentos
 Introdução
 Neste projeto, explorei o desenvolvimento de uma IA (Inteligência Artificial) simples, denominada "Katarina-IA 900", utilizando Python. A IA é capaz de analisar perguntas e respostas, aprender com elas e interagir com o usuário. Este README.md descreve o processo de criação da IA, fornecendo insights, possibilidades e capturas de tela do código em execução.
 
